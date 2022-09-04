@@ -1,5 +1,4 @@
 # imagen base de python
-#FROM python:3.8-slim
 FROM python:3.9.1
 
 # habilitar los mensajes por consola
